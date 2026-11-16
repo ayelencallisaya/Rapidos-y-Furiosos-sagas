@@ -1,0 +1,43 @@
+body {
+background-color: black;
+color: white;
+font-family: "Roboto Mono", monospace;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: normal;
+}
+h1, h2, h3 {
+    font-family: "Archivo Black", sans-serif;
+}
+
+h1 {
+text-align: center;
+font-size: 45px;
+color: #d9d9d9;
+padding-bottom: 15px;
+}
+h2 {
+color: #b0b0b0;
+padding-bottom: 8px;
+margin-top: 35px;
+}
+img {
+width: 320px;
+display: block;
+margin: 25px auto;
+}
+body {
+margin: 0;
+padding: 30px 60px;
+}
+p {
+font-size: 17px;
+line-height: 1.6;
+}
+ul {
+line-height: 1.8;
+font-size: 17px;
+}
+a {
+color: rgb(237, 178, 178);
+}

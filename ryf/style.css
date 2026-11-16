@@ -1,0 +1,71 @@
+body {
+background-color: black;
+
+}
+body {
+background-color: black;
+color: white;
+}
+h3 {
+color: silver;
+}
+h1 {
+text-align: center;
+font-size: 50px;
+text-transform: uppercase;
+letter-spacing: 3px;
+color: #d9d9d9;
+padding-bottom: 15px;
+}
+h2 {
+text-align: center;
+color: #b0b0b0;
+margin-top: 30px;
+}
+body > p {
+text-align: center;
+font-size: 18px;
+color: #d0d0d0;
+}
+h3 {
+color: silver;
+font-size: 28px;
+margin-top: 40px;
+}
+img {
+width: 250px;    
+border: 2px solid silver; 
+}
+h3 + img + p {
+width: 500px;
+font-size: 17px;
+line-height: 1.5;
+}
+
+.pelicula {
+margin-top: 40px;
+}
+
+.contenido-pelicula {
+display: flex;
+align-items: center;
+gap: 30px;
+}
+.contenido-pelicula p {
+width: 500px;
+font-size: 17px;
+line-height: 1.5;
+}
+.contenido-pelicula p {
+width: 500px;
+font-size: 17px;
+line-height: 1.5;
+}
+a {
+color: silver;
+text-decoration: none;
+}
+
+a:hover {
+color: white;
+}
